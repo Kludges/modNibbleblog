@@ -1,6 +1,8 @@
+COMPATIBILITE: vérifié pour Nibbleblog 4.0.3 "Coffee"
+
 Avant de remplacer un fichier, veuillez faire une copie de votre blog.
 Dans le cas où il y aurait un problème, vous pourrez revenir en arrière grâce à cette copie.
-Je ne certifie pas que mon code ne causera aucun problèmes.
+Je ne certifie pas que mon code ne causera aucun problème.
 
 - post.class.php
   - se trouve à cet endroit: nibbleblog/admin/kernel/helpers/post.class.php
