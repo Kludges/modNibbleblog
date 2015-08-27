@@ -6,7 +6,7 @@
 		</h1>
 		<div class="post-published"><?php echo Post::published() ?></div>
 		<div class="share_wrap">
-            <span class="share">
+            		<span class="share">
 				<a target="_blank" href="<?php echo Post::framasphere(Post::title()) ?>">Framasphere*</a>
 			</span>
             
