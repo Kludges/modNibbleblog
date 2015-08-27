@@ -1,0 +1,15 @@
+Avant de remplacer un fichier, veuillez faire une copie de votre blog.
+Dans le cas où il y aurait un problème, vous pourrez revenir en arrière.
+Je ne certifie pas que mon code ne causera aucun problèmes.
+
+- post.class.php
+  - se trouve à cet endroit: nibbleblog/admin/kernel/helpers/post.class.php
+  - Ajout à la ligne 180
+  
+- blog/post.bit
+  - se trouve à cet endroit: nibbleblog/themes/simpler/views/blog/post.bit
+  - Ajout à la ligne 
+  
+- post/post.bit
+  - se trouve à cet endroit: nibbleblog/themes/simpler/views/post/post.bit
+  - Ajout à la ligne 
