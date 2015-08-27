@@ -1,5 +1,5 @@
 # modNibbleblog
-Modifications plus ou moins utiles, mais autant partager ça peut toujours servir !
+Modifications plus ou moins utiles pour Nibbleblog, mais autant partager ça peut toujours servir !
 
 
 Avant de remplacer un fichier, veuillez faire une copie de votre blog.
