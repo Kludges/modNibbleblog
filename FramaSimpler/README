@@ -1,5 +1,5 @@
 Avant de remplacer un fichier, veuillez faire une copie de votre blog.
-Dans le cas où il y aurait un problème, vous pourrez revenir en arrière.
+Dans le cas où il y aurait un problème, vous pourrez revenir en arrière grâce à cette copie.
 Je ne certifie pas que mon code ne causera aucun problèmes.
 
 - post.class.php
@@ -8,8 +8,8 @@ Je ne certifie pas que mon code ne causera aucun problèmes.
   
 - blog/post.bit
   - se trouve à cet endroit: nibbleblog/themes/simpler/views/blog/post.bit
-  - Ajout à la ligne 
+  - Ajout à la ligne 9
   
 - post/post.bit
   - se trouve à cet endroit: nibbleblog/themes/simpler/views/post/post.bit
-  - Ajout à la ligne 
+  - Ajout à la ligne 9
